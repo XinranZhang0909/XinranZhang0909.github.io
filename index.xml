@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Xinran (Katherine) Zhang</title>
+    <link>https://XinranZhang0909.github.io/</link>
+      <atom:link href="https://XinranZhang0909.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinran (Katherine) Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://XinranZhang0909.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xinran (Katherine) Zhang</title>
+      <link>https://XinranZhang0909.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://XinranZhang0909.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://XinranZhang0909.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,10 +33,94 @@
     </item>
     
     <item>
+      <title>A Data Science Approach to Investigate Human Development</title>
+      <link>https://XinranZhang0909.github.io/project/a-data-science-approach-to-investigate-human-development/</link>
+      <pubDate>Wed, 30 Nov 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/a-data-science-approach-to-investigate-human-development/</guid>
+      <description>&lt;p&gt;Still working on it&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Optimization with Market Data</title>
+      <link>https://XinranZhang0909.github.io/project/portfolio-optimization-with-market-data/</link>
+      <pubDate>Tue, 01 Nov 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/portfolio-optimization-with-market-data/</guid>
+      <description>&lt;p&gt;Utilized monthly return data of 8 assets, optimized static portfolio and dynamic portfolio, explored different situations with alternative risk measures and market dynamics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Method in Option Pricing</title>
+      <link>https://XinranZhang0909.github.io/project/monte-carlo-method-in-option-pricing/</link>
+      <pubDate>Thu, 01 Sep 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/monte-carlo-method-in-option-pricing/</guid>
+      <description>&lt;p&gt;Regarding European and Asian call option pricing, explored methods of variance reduction (antithetic variables, importance sampling, control variates) and generated random paths (Milstein and Euler), compared performance of Monte Carlo method and Crank-Nicolson scheme in Finite Difference method&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bankruptcy of Pacific Gas and Electric</title>
+      <link>https://XinranZhang0909.github.io/project/bankruptcy-of-pacific-gas-and-electric/</link>
+      <pubDate>Sun, 01 May 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/bankruptcy-of-pacific-gas-and-electric/</guid>
+      <description>&lt;p&gt;Fitted an ARMA-GARCH model of simple monthly returns for Pacific Gas and Electric common stock for the period 1998 through 2021, used a GARCH (1,1) model to address the volatility&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Social Determinants of Adolescent Wellbeing</title>
+      <link>https://XinranZhang0909.github.io/project/early-social-determinants-of-adolescent-wellbeing/</link>
+      <pubDate>Sun, 01 May 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/early-social-determinants-of-adolescent-wellbeing/</guid>
+      <description>&lt;p&gt;Developed a model of adolescent well-being from early social and structural health determinants, used Fragile Families sample which longitudinally follows 5,000 children from birth to 15, utilized model strategies such as regression with LASSO, and random forest with PCA and bagging&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predict Ratings from Reviews on Yelp</title>
+      <link>https://XinranZhang0909.github.io/project/predict-ratings-from-reviews-on-yelp/</link>
+      <pubDate>Fri, 01 Apr 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/predict-ratings-from-reviews-on-yelp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Used 100,000 Yelp reviews and ratings to build a classifier, conducted sentiment analysis, and constructed a word cloud to exhibit words for good and bad reviews respectively&lt;/li&gt;
+&lt;li&gt;Implemented an 81%+ accurate self-designed Neural Network model to predict ratings from reviews, which had 2 hidden layers with 16 and 8 neurons in each layer, used ReLU as activation function and used Sigmoid as output layer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imports by U.S. from China</title>
+      <link>https://XinranZhang0909.github.io/project/imports-by-u.s.-from-china/</link>
+      <pubDate>Tue, 01 Mar 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/imports-by-u.s.-from-china/</guid>
+      <description>&lt;p&gt;Fitted a seasonal ARIMA model with calendar trigonometric pairs to analyze trend and changes of US-to-China imports, presented dynamic seasonal structure, performed a residual analysis with the residual acf, pacf, and spectral density&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Readmission Probability of Diabetes Inpatients</title>
+      <link>https://XinranZhang0909.github.io/project/readmission-probability-of-diabetes-inpatients/</link>
+      <pubDate>Tue, 01 Mar 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/readmission-probability-of-diabetes-inpatients/</guid>
+      <description>&lt;p&gt;Predicted likelihood of diabetes patients being readmitted within 30 days of hospital discharge, applied LASSO to impose a penalty function, induce sparsity and obtain a parsimonious logistic regression model, variables including patient demographics, medical history, and medication details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Mortality Rate</title>
+      <link>https://XinranZhang0909.github.io/project/covid-19-mortality-rate/</link>
+      <pubDate>Tue, 01 Feb 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/covid-19-mortality-rate/</guid>
+      <description>&lt;p&gt;Visualized dynamic evolvement of COVID cases and COVID-related death at state level through spaghetti plots and animated heatmaps, built and selected the best multiple regression model with LASSO and BIC that figured out critical county-level demographic and policy interventions associated with mortality rate in the US&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://XinranZhang0909.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://XinranZhang0909.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -114,9 +198,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.com/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://XinranZhang0909.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://example.com/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://XinranZhang0909.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -147,56 +231,17 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://example.com/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://XinranZhang0909.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>A Data Science Approach to Investigate Human Development</title>
-      <link>https://example.com/project/a-data-science-approach-to-investigate-human-development/</link>
-      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
-      <guid>https://example.com/project/a-data-science-approach-to-investigate-human-development/</guid>
-      <description>&lt;p&gt;Still working on it&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>COVID-19 Mortality Rate</title>
-      <link>https://example.com/project/covid-19-mortality-rate/</link>
-      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
-      <guid>https://example.com/project/covid-19-mortality-rate/</guid>
-      <description>&lt;p&gt;Visualized dynamic evolvement of COVID cases and COVID-related death at state level through spaghetti plots and animated heatmaps, built and selected the best multiple regression model with LASSO and BIC that figured out critical county-level demographic and policy interventions associated with mortality rate in the US&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Early Social Determinants of Adolescent Wellbeing</title>
-      <link>https://example.com/project/early-social-determinants-of-adolescent-wellbeing/</link>
-      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
-      <guid>https://example.com/project/early-social-determinants-of-adolescent-wellbeing/</guid>
-      <description>&lt;p&gt;Developed a model of adolescent well-being from early social and structural health determinants, used Fragile Families sample which longitudinally follows 5,000 children from birth to 15, utilized model strategies such as regression with LASSO, and random forest with PCA and bagging&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predict Ratings from Reviews on Yelp</title>
-      <link>https://example.com/project/predict-ratings-from-reviews-on-yelp/</link>
-      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
-      <guid>https://example.com/project/predict-ratings-from-reviews-on-yelp/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Used 100,000 Yelp reviews and ratings to build a classifier, conducted sentiment analysis, and constructed a word cloud to exhibit words for good and bad reviews respectively&lt;/li&gt;
-&lt;li&gt;Implemented an 81%+ accurate self-designed Neural Network model to predict ratings from reviews, which had 2 hidden layers with 16 and 8 neurons in each layer, used ReLU as activation function and used Sigmoid as output layer&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>https://XinranZhang0909.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>https://XinranZhang0909.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -296,7 +341,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-517824963&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-532176849&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -306,7 +351,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-517824963&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-532176849&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -588,9 +633,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://XinranZhang0909.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://XinranZhang0909.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -602,9 +647,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>https://XinranZhang0909.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>https://XinranZhang0909.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -661,9 +706,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://XinranZhang0909.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://XinranZhang0909.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -786,9 +831,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://XinranZhang0909.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://XinranZhang0909.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -805,9 +850,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://XinranZhang0909.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://XinranZhang0909.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -824,9 +869,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://XinranZhang0909.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://XinranZhang0909.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

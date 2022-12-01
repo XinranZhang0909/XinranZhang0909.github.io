@@ -2,151 +2,179 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>https://XinranZhang0909.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://XinranZhang0909.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://XinranZhang0909.github.io/project/a-data-science-approach-to-investigate-human-development/</loc>
+    <lastmod>2022-11-30T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/tag/computational-systems-biology/</loc>
+    <lastmod>2022-11-30T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/</loc>
+    <lastmod>2022-11-30T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/tags/</loc>
+    <lastmod>2022-11-30T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/tag/financial-mathematics/</loc>
+    <lastmod>2022-11-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/portfolio-optimization-with-market-data/</loc>
+    <lastmod>2022-11-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/academic/</loc>
+    <loc>https://XinranZhang0909.github.io/project/monte-carlo-method-in-option-pricing/</loc>
+    <lastmod>2022-09-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/bankruptcy-of-pacific-gas-and-electric/</loc>
+    <lastmod>2022-05-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/early-social-determinants-of-adolescent-wellbeing/</loc>
+    <lastmod>2022-05-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/tag/machine-learning/</loc>
+    <lastmod>2022-05-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/tag/time-series/</loc>
+    <lastmod>2022-05-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/predict-ratings-from-reviews-on-yelp/</loc>
+    <lastmod>2022-04-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/imports-by-u.s.-from-china/</loc>
+    <lastmod>2022-03-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/readmission-probability-of-diabetes-inpatients/</loc>
+    <lastmod>2022-03-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/project/covid-19-mortality-rate/</loc>
+    <lastmod>2022-02-01T19:20:54+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://XinranZhang0909.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://XinranZhang0909.github.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/category/demo/</loc>
+    <loc>https://XinranZhang0909.github.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://XinranZhang0909.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://XinranZhang0909.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>https://XinranZhang0909.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://XinranZhang0909.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://XinranZhang0909.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/plot/</loc>
+    <loc>https://XinranZhang0909.github.io/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/category/r/</loc>
+    <loc>https://XinranZhang0909.github.io/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/r-markdown/</loc>
+    <loc>https://XinranZhang0909.github.io/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/regression/</loc>
+    <loc>https://XinranZhang0909.github.io/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/a-data-science-approach-to-investigate-human-development/</loc>
-    <lastmod>2020-10-23T19:20:54+11:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/computational-systems-biology/</loc>
-    <lastmod>2020-10-23T19:20:54+11:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/covid-19-mortality-rate/</loc>
-    <lastmod>2020-10-23T19:20:54+11:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/early-social-determinants-of-adolescent-wellbeing/</loc>
-    <lastmod>2020-10-23T19:20:54+11:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/machine-learning/</loc>
-    <lastmod>2020-10-23T19:20:54+11:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/predict-ratings-from-reviews-on-yelp/</loc>
-    <lastmod>2020-10-23T19:20:54+11:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/</loc>
-    <lastmod>2020-10-23T19:20:54+11:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/writing-technical-content/</loc>
+    <loc>https://XinranZhang0909.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
+    <loc>https://XinranZhang0909.github.io/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>https://XinranZhang0909.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://XinranZhang0909.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://XinranZhang0909.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
+    <loc>https://XinranZhang0909.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/jupyter/</loc>
+    <loc>https://XinranZhang0909.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>https://XinranZhang0909.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>https://XinranZhang0909.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>https://XinranZhang0909.github.io/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/</loc>
+    <loc>https://XinranZhang0909.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>https://XinranZhang0909.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/conference-paper/</loc>
+    <loc>https://XinranZhang0909.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://XinranZhang0909.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
