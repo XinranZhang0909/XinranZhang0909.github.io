@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Academic</title>
+    <link>https://example.com/tag/machine-learning/</link>
+      <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 19:20:54 +1100</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://example.com/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Mortality Rate</title>
+      <link>https://example.com/project/covid-19-mortality-rate/</link>
+      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
+      <guid>https://example.com/project/covid-19-mortality-rate/</guid>
+      <description>&lt;p&gt;Visualized dynamic evolvement of COVID cases and COVID-related death at state level through spaghetti plots and animated heatmaps, built and selected the best multiple regression model with LASSO and BIC that figured out critical county-level demographic and policy interventions associated with mortality rate in the US&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Social Determinants of Adolescent Wellbeing</title>
+      <link>https://example.com/project/early-social-determinants-of-adolescent-wellbeing/</link>
+      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
+      <guid>https://example.com/project/early-social-determinants-of-adolescent-wellbeing/</guid>
+      <description>&lt;p&gt;Developed a model of adolescent well-being from early social and structural health determinants, used Fragile Families sample which longitudinally follows 5,000 children from birth to 15, utilized model strategies such as regression with LASSO, and random forest with PCA and bagging&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predict Ratings from Reviews on Yelp</title>
+      <link>https://example.com/project/predict-ratings-from-reviews-on-yelp/</link>
+      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
+      <guid>https://example.com/project/predict-ratings-from-reviews-on-yelp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Used 100,000 Yelp reviews and ratings to build a classifier, conducted sentiment analysis, and constructed a word cloud to exhibit words for good and bad reviews respectively&lt;/li&gt;
+&lt;li&gt;Implemented an 81%+ accurate self-designed Neural Network model to predict ratings from reviews, which had 2 hidden layers with 16 and 8 neurons in each layer, used ReLU as activation function and used Sigmoid as output layer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
