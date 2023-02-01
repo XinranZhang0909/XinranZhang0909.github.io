@@ -17,7 +17,7 @@
       <link>https://XinranZhang0909.github.io/project/portfolio-optimization-with-market-data/</link>
       <pubDate>Tue, 01 Nov 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/portfolio-optimization-with-market-data/</guid>
-      <description>&lt;p&gt;Utilized monthly return data of 8 assets, optimized static portfolio and dynamic portfolio, explored different situations with alternative risk measures and market dynamics&lt;/p&gt;
+      <description>&lt;p&gt;Utilized monthly return data of 8 assets, optimized static portfolio and dynamic portfolio, explored different situations with alternative risk measures and market dynamics.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +26,7 @@
       <link>https://XinranZhang0909.github.io/project/monte-carlo-method-in-option-pricing/</link>
       <pubDate>Thu, 01 Sep 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/monte-carlo-method-in-option-pricing/</guid>
-      <description>&lt;p&gt;Regarding European and Asian call option pricing, explored methods of variance reduction (antithetic variables, importance sampling, control variates) and generated random paths (Milstein and Euler), compared performance of Monte Carlo method and Crank-Nicolson scheme in Finite Difference method&lt;/p&gt;
+      <description>&lt;p&gt;Regarding European and Asian call option pricing, explored methods of variance reduction (antithetic variables, importance sampling, control variates) and generated random paths (Milstein and Euler), compared performance of Monte Carlo method and Crank-Nicolson scheme in Finite Difference method.&lt;/p&gt;
 </description>
     </item>
     

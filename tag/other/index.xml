@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Xinran (Katherine) Zhang</title>
+    <link>https://XinranZhang0909.github.io/tag/other/</link>
+      <atom:link href="https://XinranZhang0909.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 19:20:54 +1100</lastBuildDate>
+    <image>
+      <url>https://XinranZhang0909.github.io/media/icon_hu27a1579d8cdfdd38740433a4eb3b09b6_554540_512x512_fill_lanczos_center_3.png</url>
+      <title>Other</title>
+      <link>https://XinranZhang0909.github.io/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Chat Forum Moderator Program</title>
+      <link>https://XinranZhang0909.github.io/project/chat-forum-moderator-program/</link>
+      <pubDate>Tue, 01 Feb 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/chat-forum-moderator-program/</guid>
+      <description>&lt;p&gt;This project is to create a program called moderator.py that moderates a chat forum and a program to test moderator.py. The moderator program is divided into parts involving command line arguments, reading files, writing to files, replacing text, and writing classes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gym Members Instruction</title>
+      <link>https://XinranZhang0909.github.io/project/gym-members-instruction/</link>
+      <pubDate>Tue, 01 Feb 2022 19:20:54 +1100</pubDate>
+      <guid>https://XinranZhang0909.github.io/project/gym-members-instruction/</guid>
+      <description>&lt;p&gt;This project is to create a program for the local gym to assess their members&amp;rsquo; needs and give them exercises based on their situations and goals. The program decides the best exercise for each member and gives them detailed instructions to run the exercise.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

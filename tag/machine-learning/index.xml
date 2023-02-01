@@ -17,7 +17,7 @@
       <link>https://XinranZhang0909.github.io/project/early-social-determinants-of-adolescent-wellbeing/</link>
       <pubDate>Sun, 01 May 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/early-social-determinants-of-adolescent-wellbeing/</guid>
-      <description>&lt;p&gt;Developed a model of adolescent well-being from early social and structural health determinants, used Fragile Families sample which longitudinally follows 5,000 children from birth to 15, utilized model strategies such as regression with LASSO, and random forest with PCA and bagging&lt;/p&gt;
+      <description>&lt;p&gt;Developed a model of adolescent well-being from early social and structural health determinants, used Fragile Families sample which longitudinally follows 5,000 children from birth to 15, utilized model strategies such as regression with LASSO, and random forest with PCA and bagging.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,8 +27,8 @@
       <pubDate>Fri, 01 Apr 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/predict-ratings-from-reviews-on-yelp/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Used 100,000 Yelp reviews and ratings to build a classifier, conducted sentiment analysis, and constructed a word cloud to exhibit words for good and bad reviews respectively&lt;/li&gt;
-&lt;li&gt;Implemented an 81%+ accurate self-designed Neural Network model to predict ratings from reviews, which had 2 hidden layers with 16 and 8 neurons in each layer, used ReLU as activation function and used Sigmoid as output layer&lt;/li&gt;
+&lt;li&gt;Used 100,000 Yelp reviews and ratings to build a classifier, conducted sentiment analysis, and constructed a word cloud to exhibit words for good and bad reviews respectively.&lt;/li&gt;
+&lt;li&gt;Implemented an 81%+ accurate self-designed Neural Network model to predict ratings from reviews, which had 2 hidden layers with 16 and 8 neurons in each layer, used ReLU as activation function and used Sigmoid as output layer.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -38,7 +38,7 @@
       <link>https://XinranZhang0909.github.io/project/readmission-probability-of-diabetes-inpatients/</link>
       <pubDate>Tue, 01 Mar 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/readmission-probability-of-diabetes-inpatients/</guid>
-      <description>&lt;p&gt;Predicted likelihood of diabetes patients being readmitted within 30 days of hospital discharge, applied LASSO to impose a penalty function, induce sparsity and obtain a parsimonious logistic regression model, variables including patient demographics, medical history, and medication details&lt;/p&gt;
+      <description>&lt;p&gt;Predicted likelihood of diabetes patients being readmitted within 30 days of hospital discharge, applied LASSO to impose a penalty function, induce sparsity and obtain a parsimonious logistic regression model, variables including patient demographics, medical history, and medication details.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,7 +47,7 @@
       <link>https://XinranZhang0909.github.io/project/covid-19-mortality-rate/</link>
       <pubDate>Tue, 01 Feb 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/covid-19-mortality-rate/</guid>
-      <description>&lt;p&gt;Visualized dynamic evolvement of COVID cases and COVID-related death at state level through spaghetti plots and animated heatmaps, built and selected the best multiple regression model with LASSO and BIC that figured out critical county-level demographic and policy interventions associated with mortality rate in the US&lt;/p&gt;
+      <description>&lt;p&gt;Visualized dynamic evolvement of COVID cases and COVID-related death at state level through spaghetti plots and animated heatmaps, built and selected the best multiple regression model with LASSO and BIC that figured out critical county-level demographic and policy interventions associated with mortality rate in the US.&lt;/p&gt;
 </description>
     </item>
     

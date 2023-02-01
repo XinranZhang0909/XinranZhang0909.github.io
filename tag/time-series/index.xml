@@ -17,7 +17,7 @@
       <link>https://XinranZhang0909.github.io/project/bankruptcy-of-pacific-gas-and-electric/</link>
       <pubDate>Sun, 01 May 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/bankruptcy-of-pacific-gas-and-electric/</guid>
-      <description>&lt;p&gt;Fitted an ARMA-GARCH model of simple monthly returns for Pacific Gas and Electric common stock for the period 1998 through 2021, used a GARCH (1,1) model to address the volatility&lt;/p&gt;
+      <description>&lt;p&gt;Fitted an ARMA-GARCH model of simple monthly returns for Pacific Gas and Electric common stock for the period 1998 through 2021, used a GARCH (1,1) model to address the volatility.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +26,7 @@
       <link>https://XinranZhang0909.github.io/project/imports-by-u.s.-from-china/</link>
       <pubDate>Tue, 01 Mar 2022 19:20:54 +1100</pubDate>
       <guid>https://XinranZhang0909.github.io/project/imports-by-u.s.-from-china/</guid>
-      <description>&lt;p&gt;Fitted a seasonal ARIMA model with calendar trigonometric pairs to analyze trend and changes of US-to-China imports, presented dynamic seasonal structure, performed a residual analysis with the residual acf, pacf, and spectral density&lt;/p&gt;
+      <description>&lt;p&gt;Fitted a seasonal ARIMA model with calendar trigonometric pairs to analyze trend and changes of US-to-China imports, presented dynamic seasonal structure, performed a residual analysis with the residual acf, pacf, and spectral density.&lt;/p&gt;
 </description>
     </item>
     
